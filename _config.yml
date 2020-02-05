@@ -1,9 +1,6 @@
 title: innocent's blog
 description: This is innocent's blog.Welcome to here.
-<<<<<<< HEAD
 github_username: innocent-pure
-=======
-github_username:innocent-pure
->>>>>>> 682e05e1b1e4dd61c8893e403e5af6855f2d387d
+
 
 theme: jekyll-theme-hacker
